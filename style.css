@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+select {
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 18px;
+}
